@@ -1,0 +1,5 @@
+box-and-whisker plot
+stem-and-leaf plot
+BMI rating
+community-detection algorithm.
+multivariate data
